@@ -210,3 +210,4 @@ time.textContent = now;
 
 mode = new Date().getHours() > 17 ? 'night' : 'day';
 toggleStyle(mode);
+g
