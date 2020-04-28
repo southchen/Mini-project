@@ -31,5 +31,5 @@ mini-project for learning purpose
 
 #### Screen shots
 
-![night-mode](night.png)
-![day-mode](day.png)
+<img src="night.png" alt="night-mode" style="zoom:50%;" />
+<img src="day.png" alt="day-mode" style="zoom:50%;" />
