@@ -26,13 +26,7 @@ modes.forEach((btn) => {
         mode = btn.id;
         toggleStyle(mode);
     });
-});
-
-
-
-
-
-
+})
 
 
 countbtn.addEventListener('click', () => {
